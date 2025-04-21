@@ -565,7 +565,7 @@ foreach($nodes as $node) {
 
 <!-- Begin HamClock Embed -->
 <div style="text-align:center; margin-bottom: 20px;">
-    <iframe src="http://47.217.206.196:8081/live.html" width="800" height="480" style="border:none;"></iframe>
+    <iframe src="http://YOUR_IP_ADDRESS:8081/live.html" width="800" height="480" style="border:none;"></iframe>
 </div>
 <!-- End HamClock Embed -->
 
