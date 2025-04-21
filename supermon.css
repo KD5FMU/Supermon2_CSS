@@ -1,3 +1,14 @@
+body {
+    margin: 0 auto 7px;
+    padding: 0 5px;
+    color: var(--text-color);
+    min-width: 350px;
+    max-width: 1800px;
+    text-align: center;
+    background-color: var(--background-color);
+    font-family: sans-serif;
+}
+
 /* CUSTOM SECTION BELOW ADDED */
 html, body {
 background-color: #baf4f5;
@@ -263,6 +274,14 @@ color: black;
     text-align: center;
     width: 60%; /* Ensure it takes full width */
     display: block; /* Explicitly make it a block element if not already */
+}
+
+table {
+    margin: auto;
+    display: table;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
 }
 
 table.rtcm {
